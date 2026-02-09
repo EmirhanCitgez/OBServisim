@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "curve-graceful-line-wavy-wave-calligraphic-ribbon-stripe-smooth-contours-vector-Photoroom.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
